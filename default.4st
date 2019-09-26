@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ANSI_X3.4-1968"?>
+<StyleList>
+  <Style name="Window">
+    <StyleAttribute name="statusBarType" value="lines6" />
+    <StyleAttribute name="actionPanelPosition" value="top" />
+    <StyleAttribute name="ringMenuPosition" value="top" />
+  </Style>
+  <Style name="Error">
+    <StyleAttribute name="position" value="popup" />
+  </Style>
+  <Style name="Message">
+    <StyleAttribute name="position" value="popup" />
+  </Style>
+</StyleList>
