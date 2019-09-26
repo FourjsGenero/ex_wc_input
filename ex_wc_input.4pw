@@ -65,8 +65,8 @@
   </Settings>
   <LanguageList version="1.0"/>
   <PlatformList version="1.0"/>
-  <Group label="ex_wc_input" language="Genero">
-    <Application binaryName="main" environment="dirlist:FGLIMAGEPATH=.;$(ProjectDir)/webcomponents;$(FGLIMAGEPATH)" id="-235322494" label="ex_wc_input" targetDirectory="$(ProjectDir)">
+  <Group label="main" language="Genero">
+    <Application binaryName="main" environment="dirlist:FGLIMAGEPATH=.;$(ProjectDir)/webcomponents;$(FGLIMAGEPATH)" id="-235322494" label="main" targetDirectory="$(ProjectDir)">
       <VirtualFolder label="webcomponents">
         <File filePath="webcomponents/input/input.html"/>
       </VirtualFolder>
