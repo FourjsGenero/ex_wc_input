@@ -10,3 +10,5 @@ If onFlushData() would not exist, one would have to use a webcomponent frontcall
 
 Leaving the INPUT causes onStateChanged() being triggered.
 The webcomponent frontcall used in this sample is only for debugging purposes to visualize the order of events.
+
+![screen shot](https://github.com/FourjsGenero/ex_wc_input/raw/master/ex_wc_input.jpg)
